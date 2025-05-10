@@ -1,0 +1,19 @@
+.imClass {
+    background-color: #ff000060;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#imIdOne {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.imClass.cool {
+    font-size: 24px;
+}
+
+#imIdTwo {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
